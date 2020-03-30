@@ -1,1 +1,1 @@
-# paintings
+# Paintings
